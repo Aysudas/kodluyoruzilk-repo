@@ -8,7 +8,4 @@ Bu repo, Kodluyoruz eğitimi kapsamında oluşturduğum ilk GitHub reposudur.
 
 ## Amaç
 Git ve GitHub kullanımını öğrenmek.
-[Proje Görseli](images/31537.jpg)
-
-
-
+![Proje Görseli](31537.jpg)
